@@ -3,8 +3,8 @@
 // @description  Send a Telegram message for new attacks and mail on sitted account
 // @version      1.0
 // @match        https://*.divokekmeny.cz/game.php*
-// @downloadURL  https://https://despos337.github.io/scripts/accountSittingNotifier.user.js
-// @updateURL    https://https://despos337.github.io/scripts/accountSittingNotifier.user.js
+// @downloadURL  https://despos337.github.io/scripts/accountSittingNotifier.user.js
+// @updateURL    https://despos337.github.io/scripts/accountSittingNotifier.user.js
 // ==/UserScript==
 
 unsafeWindow.chatId = 123456789; // REPLACE with your chat id on telegram (DM me and I'll get you your ID)
