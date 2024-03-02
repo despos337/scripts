@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        Tribe overview screen enhancer
 // @description Replaces the select dropdown with a full list.
-// @version     1.0
+// @version     1.1
 // @match       https://*/game.php?*screen=ally*mode=members_defense*
 // @match       https://*/game.php?*screen=ally*mode=members_troops*
 // @match       https://*/game.php?*screen=ally*mode=members_buildings*
