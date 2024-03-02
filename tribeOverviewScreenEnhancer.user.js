@@ -2,9 +2,9 @@
 // @name        Tribe overview screen enhancer
 // @description Replaces the select dropdown with a full list.
 // @version     1.0
-// @match       https://*/game.php?*screen=ally*mode=members_defense
-// @match       https://*/game.php?*screen=ally*mode=members_troops
-// @match       https://*/game.php?*screen=ally*mode=members_buildings
+// @match       https://*/game.php?*screen=ally*mode=members_defense*
+// @match       https://*/game.php?*screen=ally*mode=members_troops*
+// @match       https://*/game.php?*screen=ally*mode=members_buildings*
 // @downloadURL https://despos337.github.io/scripts/tribeOverviewScreenEnhancer.user.js
 // @updateURL   https://despos337.github.io/scripts/tribeOverviewScreenEnhancer.user.js
 // ==/UserScript==
