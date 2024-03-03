@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Map Unit Arrival
 // @description  Show unit arrival times on map
-// @version      1.0
+// @version      1.1.0
 // @author       Whisky
 // @include      https://*/game.php?*screen=map*
 // @downloadURL  https://despos337.github.io/scripts/mapUnitArrival.user.js
