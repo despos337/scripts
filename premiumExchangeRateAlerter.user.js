@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         PE - Price Alerter
 // @description  Show notification whenever price of resource in Premium market is under threshold
-// @version      1.0
+// @version      1.0.1
 // @include      https://*/game.php*screen=market&mode=exchange*
 // @downloadURL  https://despos337.github.io/scripts/premiumExchangeRateAlerter.user.js
 // @updateURL    https://despos337.github.io/scripts/premiumExchangeRateAlerter.user.js

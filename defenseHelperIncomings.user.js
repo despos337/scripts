@@ -2,7 +2,7 @@
 // @name         Defense helper - incomings overview
 // @description  Shows the time when an incoming attack has been sent, so you can defend
 //               the last attack sent from one village.
-// @version      1.0
+// @version      1.0.1
 // @include      https://*/game.php*subtype=attacks*
 // @downloadURL  https://despos337.github.io/scripts/defenseHelperIncomings.user.js
 // @updateURL    https://despos337.github.io/scripts/defenseHelperIncomings.user.js

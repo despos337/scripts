@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name     Report Enhancer - kill scores, spent resources
 // @description Enhance TW report with kill score, lost resources etc
-// @version      1.0
+// @version      1.0.1
 // @include https://*/game.php?*screen=report*
 // @include https://*/game.php?*screen=forum*
 // @downloadURL  https://despos337.github.io/scripts/reportEnhancer.user.js

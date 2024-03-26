@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name     Attack spammer
 // @description Automatically spams attacks on a selected enemy
-// @version      1.0
+// @version      1.0.1
 // @include https://*/game.php?*screen=place*
 // @downloadURL  https://despos337.github.io/scripts/attackspammer.user.js
 // @updateURL    https://despos337.github.io/scripts/attackspammer.user.js

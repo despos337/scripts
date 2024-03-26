@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Coin Mint Clicker
 // @include      https://*/game.php*screen=snob*
-// @version      1.0
+// @version      1.0.1
 // @downloadURL  https://despos337.github.io/scripts/coinMintClicker.user.js
 // @updateURL    https://despos337.github.io/scripts/coinMintClicker.user.js
 // ==/UserScript==

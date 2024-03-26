@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Multi-account bot
 // @description  Manages recruit and building of a new village. Use together with some form of auto-builder.
-// @version      1.0
+// @version      1.0.1
 // @include      https://*/game.php?*
 // @downloadURL  https://despos337.github.io/scripts/multiAccountBot.user.js
 // @updateURL    https://despos337.github.io/scripts/multiAccountBot.user.js

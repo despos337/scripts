@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name            Fake script
 // @description     Fake script that doesn't send attacks into night bonus. Configurable keybindings for different templates.
-// @version         1.0
+// @version         1.0.1
 // @match           https://*.divokekmeny.cz/game.php?*screen=place*
 // @exclude-match   https://*.divokekmeny.cz/game.php?*screen=place*try=confirm*
 // @downloadURL  https://despos337.github.io/scripts/fakeScript.user.js

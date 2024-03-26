@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name     Send attack helper
 // @description help to fill in units for attack
-// @version      1.0
+// @version      1.0.1
 // @include https://*/game.php?*screen=map*
 // @downloadURL  https://despos337.github.io/scripts/attackSendHelper.user.js
 // @updateURL    https://despos337.github.io/scripts/attackSendHelper.user.js

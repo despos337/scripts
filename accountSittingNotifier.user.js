@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Upozornovac
 // @description  Send a Telegram message for new attacks and mail on sitted account
-// @version      1.0
+// @version      1.0.1
 // @match        https://*.divokekmeny.cz/game.php*
 // @downloadURL  https://despos337.github.io/scripts/accountSittingNotifier.user.js
 // @updateURL    https://despos337.github.io/scripts/accountSittingNotifier.user.js
