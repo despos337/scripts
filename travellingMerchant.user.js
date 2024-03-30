@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Traveling Merchant
 // @description  Automatically attacks the enemies during the "Traveling Merchant" event
-// @version      1.0.1
+// @version      1.0.2
 // @match        https://*/game.php?village=*&screen=event_trump_card
 // @downloadURL  https://despos337.github.io/scripts/travellingMerchant.user.js
 // @updateURL    https://despos337.github.io/scripts/travellingMerchant.user.js
